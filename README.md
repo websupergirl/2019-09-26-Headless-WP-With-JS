@@ -14,6 +14,10 @@ What is a headless CMS, and why should you care about it? We're going to talk ab
 
 ## Resources for Additional Learning and Testing
 
+* WordPress Plugins to make this work:
+  * [GraphQL API for WordPress](https://www.wpgraphql.com/) - turns on the GraphQL API
+  * [GraphiQL for WordPress](https://github.com/wp-graphql/wp-graphiql) - install after the GraphQL plugin
+  * [WP Maintenance Mode](https://wordpress.org/plugins/wp-maintenance-mode/) to shut off the front end of WordPress for those not logged in.
 * **[Live Previews with WordPress and Gatsby](https://justinwhall.com/live-previews-with-wordpress-gatsby/)** A great walkthrough to get you up and running with WordPress and Gatsby
 * **WPCasts Series on WP/Gatsby** A series combining WordPress, Gatsby, and Elementor
   * [Static WordPress Generation Part 1: Getting Started](https://www.youtube.com/watch?v=N5UtB36x_O8) Getting Started With GatsbyJS, Elementor, and WPGraphQL
@@ -23,3 +27,4 @@ What is a headless CMS, and why should you care about it? We're going to talk ab
   * [WordPress Theme Test Data](https://codex.wordpress.org/Theme_Unit_Test)
   * [FakerPress WordPress plugin](https://wordpress.org/plugins/fakerpress/) for generating fake data
   * Ipsum generators for funsies: [Jeff Goldblum](https://jeffsum.com/) and [Carl Sagan](http://saganipsum.com/)
+* [Learn GraphQL](https://graphql.org/learn/)
