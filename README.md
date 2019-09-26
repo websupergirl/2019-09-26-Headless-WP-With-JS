@@ -18,10 +18,12 @@ What is a headless CMS, and why should you care about it? We're going to talk ab
 	* [GraphQL API for WordPress](https://www.wpgraphql.com/) - turns on the GraphQL API
 	* [GraphiQL for WordPress](https://github.com/wp-graphql/wp-graphiql) - install after the GraphQL plugin
 	* [WP Maintenance Mode](https://wordpress.org/plugins/wp-maintenance-mode/) to shut off the front end of WordPress for those not logged in.
+* **Endpoints** for testing: [GraphQL](https://headless.thedevdrop.com/graphql) and [REST](https://headless.thedevdrop.com/wp-json/) ([see complete list of endpoints](https://developer.wordpress.org/rest-api/reference/))
 * **Fake Data** for your WordPress Install (You may want to add multiple users before adding additional data so you can spread it out.)
 	* [WordPress Theme Test Data](https://codex.wordpress.org/Theme_Unit_Test)
 	* [FakerPress WordPress plugin](https://wordpress.org/plugins/fakerpress/) for generating fake data
 	* Ipsum generators for funsies: [Jeff Goldblum](https://jeffsum.com/) and [Carl Sagan](http://saganipsum.com/)
+* **[GraphQL online](https://lucasconstantino.github.io/graphiql-online/)** for offsite testing
 
 ## Resources for Additional Learning
 
