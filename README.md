@@ -14,4 +14,4 @@ What is a headless CMS, and why should you care about it? We're going to talk ab
 
 ## Resources for Additional Learning
 
-* **Live Previews with WordPress and Gatsby**(https://justinwhall.com/live-previews-with-wordpress-gatsby/) A great walkthrough to get you up and running with WordPress and Gatsby
+* **Live Previews with WordPress and Gatsby(https://justinwhall.com/live-previews-with-wordpress-gatsby/)** A great walkthrough to get you up and running with WordPress and Gatsby
