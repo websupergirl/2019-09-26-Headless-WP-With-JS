@@ -29,6 +29,7 @@ What is a headless CMS, and why should you care about it? We're going to talk ab
 
 * [React](https://reactjs.org/)
 	* Video: [Crash Course: Headless WordPress with WPGraphQL, ACF, and React](https://www.youtube.com/watch?v=9KGuI0UmpMw) This was the basis of Nikole's React demo (minus ACF and with some additions), which is you can find in [live](https://websupergirl.github.io/react-headless-wp/), [build](https://github.com/websupergirl/react-headless-wp/tree/gh-pages), and [source](https://github.com/websupergirl/react-headless-wp/tree/master) forms.
+	* Postlight's [WordPress + React Starter Kit](https://postlight.com/labs/wordpress-react-starter-kit)
 * [Vue.js](https://vuejs.org/)
 * [Gatsby](https://www.gatsbyjs.org/)
 	* **[Live Previews with WordPress and Gatsby](https://justinwhall.com/live-previews-with-wordpress-gatsby/)** A great walkthrough to get you up and running with WordPress and Gatsby
@@ -38,4 +39,8 @@ What is a headless CMS, and why should you care about it? We're going to talk ab
 		* Video: [Static WordPress Generation Part 3: Performance](https://www.youtube.com/watch?v=LWOCOUHB5-Q) GatsbyJS and WordPress Performance Comparison
 * [GraphQL](https://graphql.org/)
 * [WordPress REST API Handbook](https://developer.wordpress.org/rest-api/)
+* [Apollo](https://www.apollographql.com/) for GraphQL
 * Video: [Should You Use WordPress As A Headless CMS?](https://www.youtube.com/watch?v=rHNl5PZT0VU)
+* [Headless WP](https://www.freecodecamp.org/news/off-with-their-heads-building-a-headless-wordpress-to-manage-content-bb04e6b2a792/) A freeCodeCamp project model for having WordPress spin up to make static json files and then spin down.
+* Video Playlist: [The JavaScript for WordPress Conference 2019](https://www.youtube.com/playlist?list=PLruo2gSoqlejI4_I4ypRCluXgWIVtpovx)
+* [GraphQL with Elm](https://github.com/dillonkearns/elm-graphql)
