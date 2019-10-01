@@ -11,6 +11,7 @@ What is a headless CMS, and why should you care about it? We're going to talk ab
 * Video
 * [Meetup](https://www.meetup.com/eugenewebdevs/events/264942113/)
 * Presenters: [Nikole](https://github.com/websupergirl) and [Greg](https://github.com/mckelveygreg)
+* Gatsby example: [Live site](https://mckelveygreg.github.io/gatsby-headless-wp-test/) [repo](https://github.com/mckelveygreg/gatsby-headless-wp-test)
 
 ## Testing Tools
 
