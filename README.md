@@ -11,11 +11,14 @@ What is a headless CMS, and why should you care about it? We're going to talk ab
 * Video
 * [Meetup](https://www.meetup.com/eugenewebdevs/events/264942113/)
 * Presenters: [Nikole](https://github.com/websupergirl) and [Greg](https://github.com/mckelveygreg)
-* Gatsby example: [Live site](https://mckelveygreg.github.io/gatsby-headless-wp-test/) [repo](https://github.com/mckelveygreg/gatsby-headless-wp-test)
+* Demos:
+	* React example: Nikole's React demo - [live](https://websupergirl.github.io/react-headless-wp/) - [build](https://github.com/websupergirl/react-headless-wp/tree/gh-pages) - [source](https://github.com/websupergirl/react-headless-wp/tree/master)
+	* Gatsby example: Greg's Gatsby demo - [live](https://mckelveygreg.github.io/gatsby-headless-wp-test/) - [repo](https://github.com/mckelveygreg/gatsby-headless-wp-test)
+	
 
 ## Testing Tools
 
-* WordPress Plugins to make this work:
+* **WordPress Plugins** to make this work:
 	* [GraphQL API for WordPress](https://www.wpgraphql.com/) - turns on the GraphQL API
 	* [GraphiQL for WordPress](https://github.com/wp-graphql/wp-graphiql) - install after the GraphQL plugin
 	* [WP Maintenance Mode](https://wordpress.org/plugins/wp-maintenance-mode/) to shut off the front end of WordPress for those not logged in.
@@ -29,12 +32,12 @@ What is a headless CMS, and why should you care about it? We're going to talk ab
 ## Resources for Additional Learning
 
 * [React](https://reactjs.org/)
-	* Video: [Crash Course: Headless WordPress with WPGraphQL, ACF, and React](https://www.youtube.com/watch?v=9KGuI0UmpMw) This was the basis of Nikole's React demo (minus ACF and with some additions), which is you can find in [live](https://websupergirl.github.io/react-headless-wp/), [build](https://github.com/websupergirl/react-headless-wp/tree/gh-pages), and [source](https://github.com/websupergirl/react-headless-wp/tree/master) forms.
+	* Video: [Crash Course: Headless WordPress with WPGraphQL, ACF, and React](https://www.youtube.com/watch?v=9KGuI0UmpMw) This was the basis of Nikole's React demo (minus ACF and with some additions).
 	* Postlight's [WordPress + React Starter Kit](https://postlight.com/labs/wordpress-react-starter-kit)
 * [Vue.js](https://vuejs.org/)
 * [Gatsby](https://www.gatsbyjs.org/)
-	* **[Live Previews with WordPress and Gatsby](https://justinwhall.com/live-previews-with-wordpress-gatsby/)** A great walkthrough to get you up and running with WordPress and Gatsby
-	* **WPCasts Series on WP/Gatsby** A series combining WordPress, Gatsby, and Elementor
+	* [Live Previews with WordPress and Gatsby](https://justinwhall.com/live-previews-with-wordpress-gatsby/) - A great walkthrough to get you up and running with WordPress and Gatsby
+	* WPCasts Series on WP/Gatsby - A series combining WordPress, Gatsby, and Elementor
 		* Video: [Static WordPress Generation Part 1: Getting Started](https://www.youtube.com/watch?v=N5UtB36x_O8) Getting Started With GatsbyJS, Elementor, and WPGraphQL
 		* Video: [Static WordPress Generation Part 2: Downloading Images](https://www.youtube.com/watch?v=5KpSXoqsuYM) How To Download External Images to Gatsby
 		* Video: [Static WordPress Generation Part 3: Performance](https://www.youtube.com/watch?v=LWOCOUHB5-Q) GatsbyJS and WordPress Performance Comparison
